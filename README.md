@@ -11,7 +11,7 @@
   - II.🤖AI(...) 
   - III.Facecial Recognizations*(Mask detection...) 
 - 🔎 **LookingFor**: 
-  -* 🏠 WFH Internship 
+  -* 🏠 Remote Work
   -* Job 
 - [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="1.9%"/>](https://www.gmail.com/) Ping me at:kholerohit7@gmail.com 
 - 🌐 portfolio website coming Soon🔜 ... 
