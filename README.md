@@ -4,7 +4,7 @@
 -  ***#Self-Learning*** Developer. 
 - 📱 Web App developer. 
 - ✅**CurrentlyWorkingOn**: 
-  - I.📱Mobile App developement(Android 💙Flutter Recat-Native REST API 🔥Firebase..) 
+  - I.📱>.Net Web App developement(.Net Core 💙Entity Framework REST API..🔥) 
   - II.💻🌐Full Stack Developement(Mysql Mongodb django PHP react...) 
 - ▶️⏸️**CurrentlyLearning**: 
   - I.📈Data Science*(Pandas Matplotlib ...) 
