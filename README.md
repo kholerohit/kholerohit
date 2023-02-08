@@ -4,10 +4,10 @@
 -  ***#Self-Learning*** Developer. 
 - 📱 Web App developer. 
 - ✅**CurrentlyWorkingOn**: 
-  - I.📱>.Net Web App developement(.Net Core 💙Entity Framework REST API..🔥) 
+  - I.📱.Net Web App developement(.Net Core 💙Entity Framework REST API..🔥) 
   - II.💻🌐Full Stack Developement(Mysql .net Entit Framework react...) 
 - ▶️⏸️**CurrentlyLearning**: 
-  - I.📈Data Science*(Pandas Matplotlib ...) 
+  - I.React*(Json, Ajax...) 
   - II.🤖AI(...) 
   - III.Facecial Recognizations*(Mask detection...) 
 - 🔎 **LookingFor**: 
