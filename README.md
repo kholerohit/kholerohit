@@ -5,13 +5,13 @@
 - 📱 Web App developer. 
 - ✅**CurrentlyWorkingOn**: 
   - I.📱>.Net Web App developement(.Net Core 💙Entity Framework REST API..🔥) 
-  - II.💻🌐Full Stack Developement(Mysql Mongodb django PHP react...) 
+  - II.💻🌐Full Stack Developement(Mysql .net Entit Framework react...) 
 - ▶️⏸️**CurrentlyLearning**: 
   - I.📈Data Science*(Pandas Matplotlib ...) 
   - II.🤖AI(...) 
   - III.Facecial Recognizations*(Mask detection...) 
 - 🔎 **LookingFor**: 
-  -* 🏠 Remote Work
+  -* 🏠 Remote Work, Full Time Role.
   -* Job 
 - [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="1.9%"/>](https://www.gmail.com/) Ping me at:kholerohit7@gmail.com 
 - 🌐 portfolio website coming Soon🔜 ... 
